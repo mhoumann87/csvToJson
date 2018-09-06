@@ -1,0 +1,29 @@
+{
+  "name": "csv_to_json",
+  "version": "0.0.1",
+  "description": "A simple NodeJS program to convert a CSV file to a JSON file",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhoumann87/csvToJson.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "csvtojson",
+    "edx.com",
+    "course",
+    "assignment"
+  ],
+  "author": "Michael Houmann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mhoumann87/csvToJson/issues"
+  },
+  "homepage": "https://github.com/mhoumann87/csvToJson#readme",
+  "dependencies": {
+    "csvtojson": "2.0.8"
+  }
+}
